@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 # Time
-| [<img   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Wesley Silva</sub>](https://github.com/wesleydsilva9609) |
+| [<img   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157746472?s=400&v=4" width=115><br><sub>Wesley Silva</sub>](https://github.com/wesleydsilva9609) |
 | :---: | :---: |
