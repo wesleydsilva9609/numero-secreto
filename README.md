@@ -1,5 +1,5 @@
 <h1>Jogo do número secreto</h1>
-#### Header 4 ####
+# Header 1
 
 <h2>🔖 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
