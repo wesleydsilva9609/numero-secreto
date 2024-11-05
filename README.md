@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img  |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157746472?v=4" width=115><br><sub>Wesley Deivid</sub>](https://github.com/wesleydsilva9609) |
+|     [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157746472?v=4" width=115><br><sub>Wesley Deivid</sub>](https://github.com/wesleydsilva9609) |
 | :---: | :---: |
